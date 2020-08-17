@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<myhaar type_id="opencv-haar-classifier">
+  <size>
+    24 24</size>
+  <stages>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 0 12 5 -1.</_>
+                <_>
+                  3 0 6 5 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.0635596513748169</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.9999973773956299</right_val></_></_></trees>
+      <stage_threshold>0.9999973773956299</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 0 13 4 -1.</_>
+                <_>
+                  0 1 13 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0280602592974901</threshold>
+            <left_val>1.</left_val>
+            <right_val>-0.9999969005584717</right_val></_></_></trees>
+      <stage_threshold>1.</stage_threshold>
+      <parent>0</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 0 20 5 -1.</_>
+                <_>
+                  5 0 10 5 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.1202429980039597</threshold>
+            <left_val>1.</left_val>
+            <right_val>-0.9999957084655762</right_val></_></_></trees>
+      <stage_threshold>1.</stage_threshold>
+      <parent>1</parent>
+      <next>-1</next></_></stages></myhaar>
+</opencv_storage>
